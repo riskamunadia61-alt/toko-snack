@@ -4,7 +4,8 @@
 
 Berikut adalah hasil tampilan Product Information System - Snack:
 
-![Hasil Project](screenshots/hasil-project.png)
+<img width="845" height="409" alt="produk information system" src="https://github.com/user-attachments/assets/ed914c02-100f-4841-9781-5fdaf4488010" />
+
 
 ##  Deskripsi Projek
 
