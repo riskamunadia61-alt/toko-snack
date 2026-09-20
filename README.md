@@ -1,5 +1,11 @@
 #  Product Information System - Snack
 
+## Hasil Project
+
+Berikut adalah hasil tampilan Product Information System - Snack:
+
+![Hasil Project](screenshots/hasil-project.png)
+
 ##  Deskripsi Projek
 
 Product Information System adalah aplikasi sederhana berbasis PHP yang digunakan untuk menampilkan dan mengolah informasi produk snack atau makanan ringan.
